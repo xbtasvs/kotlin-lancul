@@ -1,0 +1,101 @@
+<resources>
+    <string name="app_name">Lancul</string>
+    <string name="main_page_selected">%s page is selected</string>
+    <string name="left">Lancul</string>
+    <string name="right">Lancul</string>
+    <string name="forgot_password"><u>Forgot Password?</u></string>
+    <string name="Error_Login">Please input Valid info</string>
+    <string name="to_usermode">Switch to User Mode</string>
+    <string name="to_guidemode">Switch to Guider Mode</string>
+    <string name="toast_unverified_guider">This guider is not verified yet.</string>
+    <string name="label_email_address">Email Address</string>
+    <string name="label_password">Password</string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="label_name">Name</string>
+    <string name="label_phone">Phone</string>
+    <string name="label_invite_your_friends">Invite Your Friends</string>
+    <string name="label_invitation">Invitation</string>
+    <string name="label_something_to_guider">something to guider</string>
+    <string name="label_require_time">Require Time :</string>
+    <string name="btn_accept">Accept</string>
+    <string name="btn_cancel">Cancel</string>
+    <string name="wanning_are_you_sure_you_want_to_logout">Are you sure, you want to logout?</string>
+    <string name="toolbar_label_restaurants">Restaurants</string>
+    <string name="toolbar_label_users">Users</string>
+    <string name="toolbar_label_invite">Invite</string>
+    <string name="toolbar_label_myfeedback">My Feedback</string>
+    <string name="toolbar_label_new_feed">New Feed</string>
+    <string name="toolbar_label_my_profile">My Profile</string>
+    <string name="toolbar_label_saudiarabia">Saudi Arabia</string>
+    <string name="toolbar_label_experiences">Experiences</string>
+    <string name="toolbar_label_friends">Friends</string>
+    <string name="label_confirmation">Confirmation</string>
+    <string name="login">LOGIN</string>
+    <string name="btn_existing">Existing</string>
+    <string name="btn_new">New</string>
+    <string name="label_or">Or</string>
+    <string name="btn_favorite">Favorite</string>
+    <string name="btn_help">Help</string>
+    <string name="btn_feedback">Feedback</string>
+    <string name="btn_invite_friend">Invite Friend</string>
+    <string name="btn_rate_the_app">Rate the app</string>
+    <string name="btn_about_us">About Us</string>
+    <string name="btn_privacy_policy">Privacy policy</string>
+    <string name="label_sign_up_guider">No account yet, sign up now as Guider</string>
+    <string name="label_request_time">Request Time:</string>
+    <string name="btn_send">Send</string>
+    <string name="progress_sign_in">Signing in...</string>
+    <string name="progress_uploading">Uploading...</string>
+    <string name="progress_sign_up">Signing up...</string>
+    <string name="progress_send_invite">Sending Invite...</string>
+    <string name="progress_wait">Please wait...</string>
+    <string name="error_authentication">Authentication failed.</string>
+    <string name="toast_enjoy_user">You are not Guider, Enjoy User Mode</string>
+    <string name="toast_authentication_failed">Authentication failed.</string>
+    <string name="toast_upload_image">Image Uploaded!!</string>
+    <string name="toast_failed">Failed</string>
+    <string name="toast_send_email">Email sent to your address successfully</string>
+    <string name="toast_issue_1">Sorry. You should have at least two language skill to be Guider.</string>
+    <string name="toast_issue_2">Please input at least 30 letters for bio</string>
+    <string name="label_logout">Logout</string>
+    <string name="title_slide_1">Private Data We Receive And Collect</string>
+    <string name="description_slide_1">"Evolo also automatically collects and receives certain information from your computer or mobile device, including the activities you perform on our Website, the Platforms, and the Applications, the type of hardware and software you are using (for example, your operating system or browser), and information obtained from cookies. For example, each time you visit the Website or otherwise use the Services, we automatically collect your IP address, browser and device type, access times, the web page from which you came, the regions from which you navigate the web page, and the web page(s) you access (as applicable).  "</string>
+    <string name="title_slide_2">How We Use Evolo Landing Page Data</string>
+    <string name="description_slide_2">Evolo SaaS Landing Page Template uses visitors\' data for the following general purposes:\n\n
+        1: To identify you when you login to your account \n
+        2: To enable us to operate the Services and provide them to you \n
+        3: To verify your transactions and for purchase confirmation, billing, security, and authentication (including security tokens for communication with installed)\n
+        4: To analyze the Website or the other Services and information about our visitors and users, including research into our user demographics and user behaviour in order to improve our content and Services\n
+        5: To contact you about your account and provide customer service support, including responding to your comments and questions\n
+        6: To share aggregate (non-identifiable) statistics about users of the Services to prospective advertisers and partners\n
+        7: To keep you informed about the Services, features, surveys, newsletters, offers, surveys, newsletters, offers, contests and events we think you may find useful or which you have requested from us\n
+        8: To sell or market Evolo Landing Page products and services to you\n
+        9: To better understand your needs and the needs of users in the aggregate, diagnose problems, analyze trends, improve the features and usability of the Services, and better understand and market to our customers and users\n
+        10: To keep the Services safe and secure\n
+        11: We also use non-identifiable information gathered for statistical purposes to keep track of the number of visits to the Services with a view to introducing improvements and improving usability of the Services. We may share this type of statistical data so that our partners also understand how often people use the Services, so that they, too, may provide you with an optimal experience.</string>
+    <string name="title_slide_3">Customer Content We Process For Customers</string>
+    <string name="description_slide_3">Evolo is a HTML landing page template tool. By its nature, Services enable our customers to promote their products and services integrate with hundreds of business applications that they already use, all in one place.  \n\n\n Services help our customers promote their products and services, marketing and advertising; engaging audiences; scheduling and publishing messages; and analyze the results.</string>
+    <string name="title_slide_4">Consent Of Using Evolo Landing Page</string>
+    <string name="description_slide_4">By using any of the Services, or submitting or collecting any Personal Information via the Services, you consent to the collection, transfer, storage disclosure, and use of your Personal Information in the manner set out in this Privacy Policy. If you do not consent to the use of your Personal Information in these ways, please stop using the Services.</string>
+    <string name="title_slide_5">Inquire What Data We Have</string>
+    <string name="description_slide_5">Evolo Landing Page uses tracking technology on the landing page, in the Applications, and in the Platforms, including mobile application identifiers and a unique Evolo user ID to help us recognize you across different Services, to monitor usage and web traffic routing for the Services, and to customize and improve the Services.  \n\n\n By visiting Evolo or using the Services you agree to the use of cookies in your browser and HTML-based emails. Cookies are small text files placed on your device when you visit a Cookies are small text files placed on your device when you visit a Cookies are small text files placed on your device when web site in order to track.</string>
+    <string name="btn_map">My Location</string>
+    <string name="label_loading">Loading...</string>
+
+    <string-array name="time">
+        <item>1 Hour</item>
+        <item>2 Hours</item>
+        <item>3 Hours</item>
+        <item>4 Hours</item>
+        <item>5 Hours</item>
+        <item>6 or More Hours</item>
+        <item>1 day</item>
+        <item>2 days</item>
+        <item>3 days</item>
+        <item>4 days or more</item>
+        <item>A week</item>
+        <item>2 weeks</item>
+        <item>Long Term</item>
+    </string-array>
+
+</resources>

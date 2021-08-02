@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.arabian.lancul">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission. ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:screenOrientation="portrait"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".UI.Activity.PhoneVerifyActivity"></activity>
+        <activity android:name=".UI.Activity.SplashActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".UI.Activity.MapActivity" />
+        <activity android:name=".UI.Activity.GuiderRegisterActivity" />
+        <activity android:name=".UI.Activity.GuiderActivity" />
+        <activity android:name=".UI.Activity.PrivacyActivity" />
+        <activity android:name=".UI.Activity.InviteGuiderActivity" />
+        <activity android:name=".UI.Activity.ChatActivity" />
+        <activity
+            android:name=".UI.Activity.EditProfileActivity"
+            android:parentActivityName=".MainActivity"
+            android:theme="@style/edit_profile" />
+        <activity android:name=".UI.Activity.InviteActivity" />
+        <activity android:name=".UI.Activity.LoginActivity"></activity>
+        <activity
+            android:name=".MainActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize" />
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+        <meta-data
+            android:name="com.google.android.geo.API_KEY"
+            android:value="AIzaSyBi4E-nXQAwWh8ewnuV8vIRvBjOi06vlg8" />
+    </application>
+
+</manifest>

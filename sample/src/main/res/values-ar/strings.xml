@@ -1,0 +1,91 @@
+<resources>
+    <string name="app_name">Lancul</string>
+    <string name="main_page_selected">%s page is selected</string>
+    <string name="left">Lancul</string>
+    <string name="right">Lancul</string>
+    <string name="forgot_password"><u>هل نسيت كلمة المرور؟</u></string>
+    <string name="Error_Login">يرجى إدخال معلومات صالحة</string>
+    <string name="to_usermode">قم بالتبديل إلى وضع المستخدم</string>
+    <string name="to_guidemode">قم بالتبديل إلى وضع الموجه</string>
+    <string name="toast_unverified_guider">This guider is not verified yet.</string>
+    <string name="label_email_address">عنوان البريد الإلكتروني</string>
+    <string name="label_password">كلمه السر</string>
+    <string name="sign_up">تسجيل</string>
+    <string name="login">تسجيل الدخول</string>
+    <string name="label_name">اسم</string>
+    <string name="label_phone">هاتف</string>
+    <string name="label_invite_your_friends">اعزم أصحابك</string>
+    <string name="label_invitation">رسالة دعوة</string>
+    <string name="label_something_to_guider">شيء لتوجيهه</string>
+    <string name="label_require_time">تتطلب الوقت:</string>
+    <string name="btn_accept">قبول</string>
+    <string name="btn_cancel">إلغاء</string>
+    <string name="wanning_are_you_sure_you_want_to_logout">هل أنت متأكد أنك تريد تسجيل الخروج؟</string>
+    <string name="toolbar_label_restaurants">مطاعم</string>
+    <string name="toolbar_label_users">المستخدمون</string>
+    <string name="toolbar_label_invite">يدعو</string>
+    <string name="toolbar_label_myfeedback">تعليقاتي</string>
+    <string name="toolbar_label_new_feed">تغذية جديدة</string>
+    <string name="toolbar_label_my_profile">ملفي</string>
+    <string name="toolbar_label_saudiarabia">المملكة العربية السعودية</string>
+    <string name="toolbar_label_experiences">خبرة</string>
+    <string name="toolbar_label_friends">اصحاب</string>
+    <string name="label_confirmation">التأكيد</string>
+    <string name="btn_existing">موجود</string>
+    <string name="btn_new">    جديد    </string>
+    <string name="label_or">أو</string>
+    <string name="btn_favorite">مفضل</string>
+    <string name="btn_help">مساعدة</string>
+    <string name="btn_feedback">ردود الفعل</string>
+    <string name="btn_invite_friend">دعوة صديق</string>
+    <string name="btn_rate_the_app">قيم التطبيق</string>
+    <string name="btn_about_us">معلومات عنا</string>
+    <string name="btn_privacy_policy">سياسة خاصة</string>
+    <string name="label_sign_up_guider">لا يوجد حساب حتى الآن ، قم بالتسجيل كمرشد الآن</string>
+    <string name="label_request_time">وقت الطلب:</string>
+    <string name="btn_send">إرسال</string>
+    <string name="progress_sign_in">تسجيل الدخول...</string>
+    <string name="progress_uploading">جارٍ التحميل ...</string>
+    <string name="progress_sign_up">توقيع...</string>
+    <string name="progress_send_invite">إرسال دعوة ...</string>
+    <string name="progress_wait">ارجوك انتظر...</string>
+    <string name="error_authentication">المصادقة فشلت.</string>
+    <string name="toast_enjoy_user">أنت لست مرشدًا ، استمتع بوضع المستخدم</string>
+    <string name="toast_authentication_failed">المصادقة فشلت.</string>
+    <string name="toast_upload_image">تم تحميل الصورة!</string>
+    <string name="toast_failed">فشل</string>
+    <string name="toast_send_email">تم إرسال البريد الإلكتروني إلى عنوانك بنجاح</string>
+    <string name="toast_issue_1">آسف. يجب أن يكون لديك مهارة لغتين على الأقل لتكون مرشدًا.</string>
+    <string name="toast_issue_2">يرجى إدخال 30 حرفًا على الأقل للسيرة الذاتية</string>
+    <string name="label_logout">تسجيل خروج</string>
+    <string name="title_slide_1">Private Data We Receive And Collect</string>
+    <string name="description_slide_1">"Evolo also automatically collects and receives certain information from your computer or mobile device, including the activities you perform on our Website, the Platforms, and the Applications, the type of hardware and software you are using (for example, your operating system or browser), and information obtained from cookies. For example, each time you visit the Website or otherwise use the Services, we automatically collect your IP address, browser and device type, access times, the web page from which you came, the regions from which you navigate the web page, and the web page(s) you access (as applicable).  "</string>
+    <string name="title_slide_2">How We Use Evolo Landing Page Data</string>
+    <string name="description_slide_2">Evolo SaaS Landing Page Template uses visitors\' data for the following general purposes:  To identify you when you login to your account To enable us to operate the Services and provide them to you To verify your transactions and for purchase confirmation, billing, security, and authentication (including security tokens for communication with installed) To analyze the Website or the other Services and information about our visitors and users, including research into our user demographics and user behaviour in order to improve our content and Services To contact you about your account and provide customer service support, including responding to your comments and questions To share aggregate (non-identifiable) statistics about users of the Services to prospective advertisers and partners To keep you informed about the Services, features, surveys, newsletters, offers, surveys, newsletters, offers, contests and events we think you may find useful or which you have requested from us To sell or market Evolo Landing Page products and services to you To better understand your needs and the needs of users in the aggregate, diagnose problems, analyze trends, improve the features and usability of the Services, and better understand and market to our customers and users To keep the Services safe and secure We also use non-identifiable information gathered for statistical purposes to keep track of the number of visits to the Services with a view to introducing improvements and improving usability of the Services. We may share this type of statistical data so that our partners also understand how often people use the Services, so that they, too, may provide you with an optimal experience.</string>
+    <string name="title_slide_3">Customer Content We Process For Customers</string>
+    <string name="description_slide_3">Evolo is a HTML landing page template tool. By its nature, Services enable our customers to promote their products and services integrate with hundreds of business applications that they already use, all in one place.  Services help our customers promote their products and services, marketing and advertising; engaging audiences; scheduling and publishing messages; and analyze the results.</string>
+    <string name="title_slide_4">Consent Of Using Evolo Landing Page</string>
+    <string name="description_slide_4">By using any of the Services, or submitting or collecting any Personal Information via the Services, you consent to the collection, transfer, storage disclosure, and use of your Personal Information in the manner set out in this Privacy Policy. If you do not consent to the use of your Personal Information in these ways, please stop using the Services.</string>
+    <string name="title_slide_5">Inquire What Data We Have</string>
+    <string name="description_slide_5">Evolo Landing Page uses tracking technology on the landing page, in the Applications, and in the Platforms, including mobile application identifiers and a unique Evolo user ID to help us recognize you across different Services, to monitor usage and web traffic routing for the Services, and to customize and improve the Services.  By visiting Evolo or using the Services you agree to the use of cookies in your browser and HTML-based emails. Cookies are small text files placed on your device when you visit a Cookies are small text files placed on your device when you visit a Cookies are small text files placed on your device when web site in order to track.</string>
+    <string name="btn_map">My Location</string>
+    <string name="label_loading">Loading...</string>
+
+
+    <string-array name="time">
+        <item>1 ساعة</item>
+        <item>2 ساعات</item>
+        <item>3 ساعات</item>
+        <item>4 ساعات</item>
+        <item>5 ساعات</item>
+        <item>6 أو المزيد من الساعات</item>
+        <item>1 يوم</item>
+        <item>2 أيام</item>
+        <item>3 أيام</item>
+        <item>4 أيام أو أكثر</item>
+        <item>أسبوع</item>
+        <item>2 أسابيع</item>
+        <item>طويل الأمد</item>
+    </string-array>
+
+</resources>
