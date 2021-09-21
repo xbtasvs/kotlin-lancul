@@ -1,10 +1,15 @@
 
 This app is chatting app with firebase support and beautiful design.
 
-![](https://github.com/Rolland-K/Lancul_java/blob/master/screenshot/device-2021-07-16-073524.png)
-![](https://github.com/Rolland-K/Lancul_java/blob/master/screenshot/device-2021-07-16-074043.png)
-![](https://github.com/Rolland-K/Lancul_java/blob/master/screenshot/device-2021-07-16-074247.png)
-![](https://github.com/Rolland-K/Lancul_java/blob/master/screenshot/device-2021-07-16-074353.png)
+You can find the app here.
+google store: https://play.google.com/store/apps/details?id=com.languageandculture.lancul
+
+ <div>
+  <img align="left" alt="GIF" src="https://github.com/Rolland-K/Lancul_java/blob/master/screenshot/device-2021-07-16-073524.png" width="300" height="700" />
+  <img align="right" alt="GIF" src="https://github.com/Rolland-K/Lancul_java/blob/master/screenshot/device-2021-07-16-074043.png" width="300" height="700" />
+  <img align="left" alt="GIF" src="https://github.com/Rolland-K/Lancul_java/blob/master/screenshot/device-2021-07-16-074247.png" width="300" height="700" />
+  <img align="right" alt="GIF" src="https://github.com/Rolland-K/Lancul_java/blob/master/screenshot/device-2021-07-16-074353.png" width="300" height="700" />
+</div>
 
 # Meow Bottom Navigation For Java Projects without androidx  
 A simple & curved & material bottom navigation for Android written in kotlin.  
