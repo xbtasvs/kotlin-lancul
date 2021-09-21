@@ -13,6 +13,8 @@ google store: https://play.google.com/store/apps/details?id=com.languageandcultu
 
 <br />
 
+**Reference:**  
+
 # Meow Bottom Navigation For Java Projects without androidx  
 A simple & curved & material bottom navigation for Android written in kotlin.  
   
