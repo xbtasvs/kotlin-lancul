@@ -4,14 +4,12 @@ This app is chatting app with firebase support and beautiful design.
 You can find the app here.
 google store: https://play.google.com/store/apps/details?id=com.languageandculture.lancul
 
- <div>
-  <img align="left" alt="GIF" src="https://github.com/Rolland-K/Lancul_java/blob/master/screenshot/device-2021-07-16-073524.png" width="330" height="700" />
-  <img align="right" alt="GIF" src="https://github.com/Rolland-K/Lancul_java/blob/master/screenshot/device-2021-07-16-074043.png" width="330" height="700" />
-  <img align="left" alt="GIF" src="https://github.com/Rolland-K/Lancul_java/blob/master/screenshot/device-2021-07-16-074247.png" width="330" height="700" />
-  <img align="right" alt="GIF" src="https://github.com/Rolland-K/Lancul_java/blob/master/screenshot/device-2021-07-16-074353.png" width="330" height="700" />
+<div>
+  <img src="https://github.com/Rolland-K/Lancul_java/blob/master/screenshot/device-2021-07-16-073524.png" width="330" height="700" />
+  <img src="https://github.com/Rolland-K/Lancul_java/blob/master/screenshot/device-2021-07-16-074043.png" width="330" height="700" />
+  <img  src="https://github.com/Rolland-K/Lancul_java/blob/master/screenshot/device-2021-07-16-074247.png" width="330" height="700" />
+  <img src="https://github.com/Rolland-K/Lancul_java/blob/master/screenshot/device-2021-07-16-074353.png" width="330" height="700" />
 </div>
-
-<br />
 
 **Reference:**  
 
